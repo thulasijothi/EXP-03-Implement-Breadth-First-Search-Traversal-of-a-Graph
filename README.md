@@ -6,7 +6,6 @@ NAME : THULASI J
 
 REGISTER : 212224250020
 
-
 AIM: 
 Theory: 
 To Implement Breadth First Search Traversal of a Graph using Python 3. 
